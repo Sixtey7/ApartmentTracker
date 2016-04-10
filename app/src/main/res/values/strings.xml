@@ -1,0 +1,257 @@
+<resources>
+    <string name="app_name">ApartmentTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--
+
+        General Complex Strings
+
+    -->
+    <string name="distanceUnitsLabel">miles</string>
+    <string name="timeUnitsLabel">mins</string>
+
+    <!--
+
+        View Complex Strings
+
+    -->
+    <!-- General Information -->
+    <string name="generalViewNameLabel">Name</string>
+    <string name="generalViewStyleLabel">Style</string>
+    <string name="generalViewNumBedsLabel">Num Beds</string>
+    <string name="generalViewNumBathsLabel">Num Baths</string>
+    <string name="generalViewNumFloorsLabel">Num Floors</string>
+    <string name="generalViewSqFtLabel">Sq Ft</string>
+    <string name="generalViewRatingLabel">Rating</string>
+    <string name="generalViewFirstFloorLabel">First Floor Bedroom</string>
+    <string name="generalViewOfficeHoursLabel">Office Hours</string>
+    <string name="generalViewPhoneNumberLabel">Phone Number</string>
+    <string name="generalViewWebsiteLabel">Website</string>
+
+    <!-- Address Information -->
+    <string name="addressViewStreetLabel">Street</string>
+    <string name="addressViewAptLabel">Apt No</string>
+    <string name="addressViewCityLabel">City</string>
+    <string name="addressViewStateLabel">State</string>
+    <string name="addressViewZipLabel">Zip</string>
+
+    <!-- Amenities Information -->
+    <string name="amenitiesViewDishwasherLabel">Dishwasher</string>
+    <string name="amenitiesViewDisposalLabel">Disposal</string>
+    <string name="amenitiesViewRangeLabel">Range</string>
+    <string name="amenitiesViewFiosLabel">FiOS</string>
+    <string name="amenitiesViewACLabel">AC</string>
+    <string name="amenitiesViewHeatSourceLabel">Heat Source</string>
+    <string name="amenitiesViewHeatLabel">Heat</string>
+    <string name="amenitiesViewWasherDryerLabel">W/D</string>
+    <string name="amenitiesViewFireplaceLabel">Fireplace</string>
+    <string name="amenitiesViewGarageLabel">Garage</string>
+    <string name="amenitiesViewAtticLabel">Attic</string>
+    <string name="amenitiesViewBasementLabel">Basement</string>
+    <string name="amenitiesViewCountersLabel">Counters</string>
+    <string name="amenitiesViewPatioBalconyLabel">Patio/Balcony</string>
+
+    <!-- Complex Information -->
+    <string name="complexViewAllowsDogsLabel">Allows Dogs</string>
+    <string name="complexViewFitnessCenterLabel">Fitness Center</string>
+    <string name="complexViewFitnessCenterFeeLabel">Fitness Center Fee</string>
+    <string name="complexViewFitnessCenterFeeTermLabel">Term</string>
+    <string name="complexViewPoolLabel">Pool</string>
+    <string name="complexViewPoolFeeLabel">Pool Fee</string>
+    <string name="complexViewPoolFeeTermLabel">Term</string>
+    <string name="complexViewOutdoorSpaceLabel">Dog Space</string>
+
+    <!-- Distance Information -->
+    <string name="distanceViewPatrickWorkDistanceLabel">Pat Work Distance</string>
+    <string name="distanceViewPatrickWorkTimeLabel">Pat Work Time</string>
+    <string name="distanceViewPatrickWorkTollsLabel">Pat Work Tolls</string>
+    <string name="distanceViewDanielleClassDistanceDriveLabel">Dan Class Distance (D)</string>
+    <string name="distanceViewDanielleClassTimeDriveLabel">Dan Class Time (D)</string>
+    <string name="distanceViewDanielleClassTimePublicLabel">Dan Class Time (P)</string>
+    <string name="distanceViewSRTDistanceLabel">SRT Distance</string>
+
+    <!-- Price Information -->
+    <string name="priceViewPriceLabel">Price</string>
+    <string name="priceViewTermLabel">Term</string>
+    <string name="priceViewLeasePeriodLabel">Lease Term</string>
+    <string name="priceViewLeasePeriodTermLabel">Term</string>
+    <string name="priceViewSecurityDepositLabel">Security Deposit</string>
+    <string name="priceViewSecurityDepositRefundableLabel">Security Deposit Refundable</string>
+    <string name="priceViewSecurityDepositTypeLabel">SD Type</string>
+    <string name="priceViewIncludedSectionLabel">Included</string>
+    <string name="priceViewElectricIncludedLabel">Electric</string>
+    <string name="priceViewSewageIncludedLabel">Sewage</string>
+    <string name="priceViewWaterIncludedLabel">Water</string>
+    <string name="priceViewGasIncludedLabel">Gas</string>
+    <string name="priceViewTrashIncludedLabel">Trash</string>
+    <string name="priceViewDogFeeLabel">Dog Fee</string>
+    <string name="priceViewDogFeeTermLabel">Dog Fee Term</string>
+    <string name="priceViewDogFeeDepositLabel">Dog Fee Deposit</string>
+    <string name="priceViewDogFeeDepositRefundableLabel">Dog Fee Deposit Refundable</string>
+
+    <!-- Notes -->
+    <string name="notesViewNotesLabel">Notes</string>
+
+    <!-- Contact Information -->
+    <string name="contactViewLastContactTypeLabel">Last Contact</string>
+    <string name="contactViewLastContactDateLabel">Last Contact Date</string>
+
+
+    <string name="viewComplexBooleanPositive">Yes</string>
+    <string name="viewComplexBooleanNegative">No</string>
+
+    <!--
+
+        Edit Complex Settings
+    -->
+    <!-- General Information -->
+    <string name="generalEditNameLabel">Name</string>
+    <string name="generalEditStatusLabel">Status</string>
+    <string name="generalEditAddressLabel">Address</string>
+    <string name="generalEditStyleLabel">Style</string>
+    <string name="generalEditNumBedsLabel">Num Beds</string>
+    <string name="generalEditNumBathsLabel">Num Baths</string>
+    <string name="generalEditNumFloorsLabel">Num Floors</string>
+    <string name="generalEditSqFtLabel">Sq Ft</string>
+    <string name="generalEditRatingLabel">Rating</string>
+    <string name="generalEditFirstFloorLabel">1st Fl BR</string>
+    <string name="generalEditOfficeHoursLabel">Office Hours</string>
+    <string name="generalEditPhoneNumberLabel">Office #</string>
+    <string name="generalEditWebsiteLabel">Website</string>
+
+    <!-- Address Information -->
+    <string name="addressEditStreetLabel">Street</string>
+    <string name="addressEditAptLabel">Apt No</string>
+    <string name="addressEditCityLabel">City</string>
+    <string name="addressEditStateLabel">State</string>
+    <string name="addressEditZipLabel">Zip</string>
+
+    <!-- Amenities Information -->
+    <string name="amenitiesEditDishwasherLabel">Dishwasher</string>
+    <string name="amenitiesEditDisposalLabel">Disposal</string>
+    <string name="amenitiesEditRangeLabel">Range</string>
+    <string name="amenitiesEditFiosLabel">FiOS</string>
+    <string name="amenitiesEditACLabel">AC</string>
+    <string name="amenitiesEditHeatSourceLabel">Heat Source</string>
+    <string name="amenitiesEditHeatLabel">Heat</string>
+    <string name="amenitiesEditWasherDryerLabel">W/D</string>
+    <string name="amenitiesEditFireplaceLabel">Fireplace</string>
+    <string name="amenitiesEditGarageLabel">Garage</string>
+    <string name="amenitiesEditAtticLabel">Attic</string>
+    <string name="amenitiesEditBasementLabel">Basement</string>
+    <string name="amenitiesEditCountersLabel">Counters</string>
+    <string name="amenitiesEditPatioBalconyLabel">Patio/Balcony</string>
+
+    <!-- Complex Information -->
+    <string name="complexEditAllowsDogsLabel">Allows Dogs</string>
+    <string name="complexEditFitnessCenterLabel">Fitness Center</string>
+    <string name="complexEditFitnessCenterFeeLabel">Fitness Center Fee</string>
+    <string name="complexEditFitnessCenterFeeTermLabel">Term</string>
+    <string name="complexEditPoolLabel">Pool</string>
+    <string name="complexEditPoolFeeLabel">Pool Fee</string>
+    <string name="complexEditPoolFeeTermLabel">Term</string>
+    <string name="complexEditOutdoorSpaceLabel">Dog Space</string>
+
+    <!-- Distance Information -->
+    <string name="distanceEditPatrickWorkDistanceLabel">Pat Work Distance</string>
+    <string name="distanceEditPatrickWorkTimeLabel">Pat Work Time</string>
+    <string name="distanceEditPatrickWorkTollsLabel">Pat Work Tolls</string>
+    <string name="distanceEditDanielleClassDistanceDriveLabel">Dan Class Distance (D)</string>
+    <string name="distanceEditDanielleClassTimeDriveLabel">Dan Class Time (D)</string>
+    <string name="distanceEditDanielleClassTimePublicLabel">Dan Class Time (P)</string>
+    <string name="distanceEditSRTDistanceLabel">SRT Distance</string>
+
+    <!-- Price Information -->
+    <string name="priceEditPriceLabel">Price</string>
+    <string name="priceEditTermLabel">Term</string>
+    <string name="priceEditLeasePeriodLabel">Lease Term</string>
+    <string name="priceEditLeasePeriodTermLabel">Term</string>
+    <string name="priceEditSecurityDepositLabel">Sec. Deposit</string>
+    <string name="priceEditSecurityDepositRefundableLabel">Refundable</string>
+    <string name="priceEditSecurityDepositTypeLabel">SD Type</string>
+    <string name="priceEditIncludedSectionLabel">Included</string>
+    <string name="priceEditElectricIncludedLabel">Electric</string>
+    <string name="priceEditSewageIncludedLabel">Sewage</string>
+    <string name="priceEditWaterIncludedLabel">Water</string>
+    <string name="priceEditGasIncludedLabel">Gas</string>
+    <string name="priceEditTrashIncludedLabel">Trash</string>
+    <string name="priceEditDogFeeLabel">Dog Fee</string>
+    <string name="priceEditDogFeeTermLabel">Dog Fee Term</string>
+    <string name="priceEditDogFeeDepositLabel">Dog Deposit</string>
+    <string name="priceEditDogFeeDepositRefundableLabel">Refundable</string>
+
+    <!-- Notes -->
+    <string name="notesEditNotesLabel">Notes</string>
+
+
+    <!-- Contact Information -->
+    <string name="contactEditLastContactTypeLabel">Last Contact</string>
+    <string name="contactEditLastContactDateLabel">Last Contact Date</string>
+    <string name="contactEditLastContactDateButtonLabel">Date</string>
+
+    <!--
+
+        Fragment Strings
+
+    -->
+    <!-- Select Place Fragment -->
+    <string name="selectPlaceFragmentTitle">Select Place</string>
+
+
+    <!---
+
+        Dialog Strings
+
+    -->
+    <!-- Error Dialog -->
+    <string name="error_dialog_title">Sorry, an Error Occurred</string>
+    <string name="error_dialog_message">Sorry, an Error Occurred</string>
+
+    <!-- Network Error Dialog -->
+    <string name="network_error_dialog_title">Network Error</string>
+    <string name="network_error_dialog_message">Sorry, a Network Error Has Occurred</string>
+
+    <!-- Warning Dialog -->
+    <string name="warning_dialog_title">Warning!</string>
+
+    <!-- Create Place To Live -->
+    <string name="create_place_to_live_dialog_title">Enter Name</string>
+    <string name="create_place_to_live_dialog_text">Enter a name for the new Complex</string>
+
+    <!-- Update Checklist From Server Prompt -->
+    <string name="update_checklist_from_server_prompt_title">Update From Server?</string>
+    <string name="update_checklist_from_server_prompt_text">There is currently no data in the application.  Would you like to get the latest from the server?</string>
+    <string name="update_checklist_from_server_prompt_positive_label">Sync!</string>
+    <string name="update_checklist_from_server_prompt_negative_label">Nope...</string>
+
+    <!--
+
+    Menu Strings
+
+    -->
+    <string name="select_apartment_menu_update_from_server_string">Update From Server</string>
+    <string name="select_apartment_menu_post_to_server_string">Post To Server</string>
+
+    <!--
+
+    Toast Strings
+
+    -->
+    <!-- Getting From Server Toasts -->
+    <string name="toast_get_from_server_start">Updating From Server</string>
+    <string name="toast_get_from_server_end">Finished Updating From Server</string>
+    <string name="toast_get_from_server_error">There was an error updating from server!</string>
+
+    <!-- Posting To Server Toasts -->
+    <string name="toast_post_to_server_start">Submitting To Server</string>
+    <string name="toast_post_to_server_end">Finished Updating Server</string>
+    <string name="toast_post_to_server_error">There was an error updating the server!</string>
+
+    <!-- Saving to the database toasts -->
+    <string name="toast_save_to_database_success">Saved.</string>
+    <string name="toast_save_to_database_error">Failed to Save.</string>
+
+
+</resources>

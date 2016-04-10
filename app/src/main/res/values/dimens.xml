@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="round_button_diameter">56dp</dimen>
+    <dimen name="add_button_margin">16dp</dimen>
+    <dimen name="elevation_low">8dp</dimen>
+    <dimen name="elevation_high">14dp</dimen>
+
+
+
+
+    <!--Dimens For Edit Place -->
+    <dimen name="edit_place_full_width_edit_text_width">250dp</dimen>
+    <dimen name="edit_place_two_column_edit_text_width">50dp</dimen>
+    <dimen name="edit_place_full_width_spinner_width">250dp</dimen>
+    <dimen name="edit_place_two_column_spinner_width">75dp</dimen>
+
+    <dimen name="edit_place_price_edit_text_width">100dp</dimen>
+    <dimen name="edit_place_price_type_spinner_width">100dp</dimen>
+
+    <dimen name="edit_place_distance_edit_text_width">75dp</dimen>
+    <dimen name="edit_place_distance_units_edit_text_width">50dp</dimen>
+</resources>

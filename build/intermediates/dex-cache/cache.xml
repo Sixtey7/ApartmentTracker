@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\pre-dexed\debug\classes-3da9858359a81dd22cfae4665854ff7adb437060.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\pre-dexed\debug\classes-860c26559517a9ac89373dbe452cc29783720324.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-5b6fcfa1172975376fca6b98f061e7d8699736e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\pre-dexed\debug\classes-33f18c1904b4fa5832ccaf85b1ccc3f5c0c30e82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patrick\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\pre-dexed\debug\library-2.4.0-b6eec67430ea78aba30d2194c4070b19f0170b0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\pre-dexed\debug\classes-cc8f73ef3114ff8785da0bc4f667bd29f56c0460.jar" />
+    </item>
+    <item
+        jar="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\pre-dexed\debug\classes-707619328d56029d9723b3bba53c4e8a72815338.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Patrick\OneDrive\Code\Android\AndroidStudio\ApartmentTracker\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-5f7b639de8135024e42567e7fe1ddfdfd8bac0f0.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/select_apartment_update_from_server"
+        android:title="@string/select_apartment_menu_update_from_server_string" />
+    <item
+        android:id="@+id/select_apartment_post_to_server"
+        android:title="@string/select_apartment_menu_post_to_server_string" />
+</menu>
